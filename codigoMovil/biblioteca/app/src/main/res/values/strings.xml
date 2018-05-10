@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">biblioteca</string>
+    <string name="opt1">Cerrar sesion</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_libros">Libros</string>
+    <string name="title_activity_error_internet">ErrorInternet</string>
+</resources>
