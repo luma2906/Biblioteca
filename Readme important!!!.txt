@@ -7,3 +7,6 @@
 7 ir de nuevo al android studio y copiar dicha ip en el metodo BaseUrl
 8 Guardar y generar de nuevo el apk o compilar la aplicacion directamente
 9 Ya se puede conectar mediante la app movil.
+
+USUARIO luma2906@gmail.com	
+PASSWORD 123
